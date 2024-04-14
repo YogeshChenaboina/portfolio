@@ -1,0 +1,35 @@
+[
+    {
+      "title": "HTML",
+      "imageSrc": "skills/html.png"
+    },
+    {
+      "title": "CSS",
+      "imageSrc": "skills/css.png"
+    },
+    {
+      "title": "JavaScript",
+      "imageSrc": "skills/javascript.png"
+    },
+    {
+      "title": "React",
+      "imageSrc": "skills/react.png"
+    },
+    {
+      "title": "Java",
+      "imageSrc": "skills/java6.png"
+    },
+    {
+      "title": "Java JDBC",
+      "imageSrc": "skills/jdbc3.jpg"
+    },
+    {
+      "title": "SpringFrameWorks",
+      "imageSrc": "skills/spring2.png"
+    },
+    {
+      "title": "SQL",
+      "imageSrc": "skills/sql2.jpg"
+    }
+  ]
+  

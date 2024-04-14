@@ -1,0 +1,19 @@
+[
+    {
+      "key": 1,
+      "title": "React E-Commerce",
+      "imageSrc": "pro/e-commerce(image).jpg",
+      "description": "It's an e-commerce site with dynamic pricing, user-friendly interface, responsive design, and customer support..",
+      "demo": "https://e-commerce-website-pi-lake.vercel.app/",
+      "source": "https://github.com/YogeshChenaboina/E-commerce-website"
+    },
+    {
+      "key": 2,
+      "title": "Kalpavan Website",
+      "imageSrc": "pro/kalpvan.png",
+      "description": "This is a project made with complete React js,react-bootstrap. It is real world project built from scratch for the Educational Institute",
+      "demo": "https://kalpavan-website.vercel.app/",
+      "source": "https://github.com/YogeshChenaboina/KalpavanWebsite"
+    }
+  ]
+  
