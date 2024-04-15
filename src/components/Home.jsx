@@ -20,7 +20,10 @@ const Home = () => {
   return (
     <>
       <div className="container home" id='home'>
-        <div className="left">
+        <div className="left"
+        data-aos="fade-up-right"
+        data-aos-duration="1000"
+        >
           <h3 style={{border:'solid yellow 1px',fontSize:'medium',width:'200px',backgroundColor:'black',padding:'5px'}}>Welcome to My Portfolio</h3>
           <h1>Hi! i'm Yogesh
           </h1>
@@ -29,7 +32,10 @@ const Home = () => {
           <a href={pdf} download="Resume.pdf" className="btn btn-outline-warning">Download Resume</a>
         </div>
         <div className="right">
-            <div className="img">
+            <div className="img"
+             data-aos="fade-up-left"
+             data-aos-duration="1000"
+            >
            <img src={`/assets/${hero.imgSrc}`} alt="hero" />
            </div>
         </div>
